@@ -1,3 +1,6 @@
+The Datasets: placesLatitudeAndLongitude.txt
+The NoteBook: assignmentWeek3Clustering.ipynb
+
 Data Description: 
  I used the DataSet I found and downloaded in the book Machine Learning in Action of Peter Harrington . The dataSet use  two features the latitude
  and the longitude of 69 observations (addresses)f or clustering.

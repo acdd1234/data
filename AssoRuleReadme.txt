@@ -1,3 +1,6 @@
+The Dataset is: mushroom.dat
+The Notebook is: Assignmen2ItemSetAndAssociationRules.ipynb
+
 The dataSet is from machine learning database. I got the data from the site Manning in Action site. 
 I bought the book: Machine Learning in Action (Peter Harrington).  I downloaded the source code and related dataSet.
 
